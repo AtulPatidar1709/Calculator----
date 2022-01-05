@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: white;
+  color:black; 
+}
+
+#input-1 {
+  margin-top: 1rem;
+}
+#input-2{
+  margin-top: 1rem;
+}
+
+#container {
+   text-align: center;
+   font-display: block;
+   list-style-type: none;
+
+}
+
+#buttons{
+  margin-top: 2rem ;
+}
+
+#output{
+  margin-top: 1rem;
+}
