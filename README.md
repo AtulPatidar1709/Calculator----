@@ -1,6 +1,6 @@
 Project: do you know triangles?
 
-Taks:
+Taksk:
 
 Ask the user to input three angles and you say whether the user has entered angles that could make a triangle. Hint: the sum of angles in a triangle is 180.
 
